@@ -1,0 +1,40 @@
+body {
+    margin:0;
+    background-image: linear-gradient(to right, #fbc2eb 0%, #a6c1ee 100%);
+}
+.subtitle{
+    font-family: 'Yomogi', cursive;
+    background-color:rgba(255,255,255,0.3);
+    text-align: center;
+    margin:3% 0%;
+    padding:1%;
+    font-size:30px;
+    color:#4c444d;
+}
+body{
+    text-align: center;
+}
+.lack{
+    font-weight: lighter;
+    font-family:'Kiwi Maru', serif;
+    color:#584f5b;
+    font-size:20px;
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right:300px;
+}
+.lackly{
+    font-weight:bold;
+    margin-top:80px;
+}
+.return_top{
+    font-family: 'Yomogi', cursive;
+    background-color:rgba(255,255,255,0.3);
+    display:inline-block;
+    text-align: center;
+    margin:5%;
+    padding:2%;
+    border-radius: 30px;
+    height: 5%;
+}
